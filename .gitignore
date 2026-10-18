@@ -1,0 +1,8 @@
+# Dados brutos (grandes; baixe do Kaggle conforme o README)
+data/*.csv
+
+# Ambiente virtual e caches
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
